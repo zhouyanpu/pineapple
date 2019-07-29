@@ -1,3 +1,3 @@
-console.log("apple");
+console.log("apple is red");
 
 //dsadsa
